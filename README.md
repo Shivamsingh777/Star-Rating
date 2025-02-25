@@ -1,1 +1,1 @@
-# Star-Rating
+This is a basic star rating system that allows users to rate something by clicking on stars. The stars are created using HTML and styled with CSS. The interaction and rating logic are handled by JavaScript.
